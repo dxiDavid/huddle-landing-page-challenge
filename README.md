@@ -28,18 +28,18 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshots
+## Screenshots
 
-# Desktop View
+### Desktop View
 
 ![](./images/2023-01-30%201.png)
 
-# Active states
+### Active states
 
 ![](./images/2023-01-30%202.png)
 
 
-# Mobile view
+### Mobile view
 
 ![](./images/Screenshot%202023-01-30%20214234.png)
 
