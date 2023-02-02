@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/dxiDavid)
-- Live Site URL: [Go Live](hhttps://huddle-landing-page-b2d.pages.dev/)
+- Live Site URL: [Go Live](https://huddle-landing-page-b2d.pages.dev/)
 
 ## My process
 
